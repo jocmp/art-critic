@@ -1,0 +1,20 @@
+#!/usr/bin/env python
+# import base64
+import argparse
+
+from art_critic.critic import evaluate_image
+
+parser = argparse.ArgumentParser(description='Art Critic CLI')
+parser.add_argument('--object-id', required=True, help='ID of the art object')
+
+def main():
+  args = parser.parse_args()
+  object_id = args.object_id
+
+  # try:
+  evaluate_image(object_id=object_id)
+  # except Exception as e:
+    # print(f"Error: {e}")
+
+if __name__ == "__main__":
+  main()

@@ -1,0 +1,24 @@
+{
+  "style": [
+    "abstract",
+    "printmaking",
+    "etching"
+  ],
+  "subjects": [
+    "forms",
+    "lines",
+    "shapes",
+    "texture"
+  ],
+  "color": [
+    "black",
+    "white",
+    "monochrome"
+  ],
+  "themes": [
+    "expression",
+    "movement",
+    "contrast",
+    "emotion"
+  ]
+}
