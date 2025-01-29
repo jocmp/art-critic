@@ -18,10 +18,16 @@ Using gpt-4o-mini, describes an image and returns the result as JSON.
     brew install direnv
     ```
 
-1. Copy the `.envrc.example` to `.envrc` which is outside version control. Add your `OPENAI_API_KEY` to `.envrc` and run `direnv allow
+1. Copy the `.envrc.example` to `.envrc` which is outside version control. Add your `OPENAI_API_KEY` to `.envrc` and run `direnv allow`
 
     ```sh
     cp .envrc.example .envrc
+    ```
+
+1. Install the project dependencies
+
+    ```sh
+    make deps
     ```
 
 1. Run the main program
