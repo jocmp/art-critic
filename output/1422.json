@@ -1,0 +1,23 @@
+{
+  "style": [
+    "realism"
+  ],
+  "subjects": [
+    "bridge",
+    "cityscape",
+    "nighttime",
+    "waterway"
+  ],
+  "color": [
+    "blue",
+    "gray",
+    "yellow",
+    "dark"
+  ],
+  "themes": [
+    "infrastructure",
+    "urban",
+    "nocturnal",
+    "photography"
+  ]
+}

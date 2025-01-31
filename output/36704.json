@@ -1,0 +1,29 @@
+{
+  "style": [
+    "realism"
+  ],
+  "subjects": [
+    "landscape",
+    "beach",
+    "forest",
+    "ocean",
+    "sky",
+    "sand",
+    "trees",
+    "bushes"
+  ],
+  "color": [
+    "bright",
+    "pastel",
+    "blue",
+    "green",
+    "yellow",
+    "white"
+  ],
+  "themes": [
+    "nature",
+    "serenity",
+    "tranquility",
+    "environment"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "style": [
+    "realism"
+  ],
+  "subjects": [
+    "cityscape",
+    "bridge",
+    "highway",
+    "landscape"
+  ],
+  "color": [
+    "blue",
+    "green",
+    "gray"
+  ],
+  "themes": [
+    "urban environment",
+    "night scene",
+    "waterfront"
+  ]
+}

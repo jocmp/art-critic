@@ -1,0 +1,25 @@
+{
+  "style": [
+    "realism"
+  ],
+  "subjects": [
+    "landscape",
+    "tree",
+    "river",
+    "field",
+    "clouds"
+  ],
+  "color": [
+    "pastel",
+    "blue",
+    "green",
+    "yellow",
+    "white",
+    "gray"
+  ],
+  "themes": [
+    "nature",
+    "serenity",
+    "daytime"
+  ]
+}
